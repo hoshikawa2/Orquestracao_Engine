@@ -186,3 +186,7 @@ flowchart TD
 
     DECIDE -- Too many attempts --> FAIL
 ```
+
+## Acknowledgments
+
+- **Author** - Cristiano Hoshikawa (Oracle LAD A-Team Solution Engineer)
